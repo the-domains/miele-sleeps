@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Miele Sleeps]]></title>
         <description><![CDATA[Miele Sleeps]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/miele-sleeps/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Mar 2016 20:28:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 02 Mar 2016 20:30:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/miele-sleeps/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ee6fa32a-e8b3-4135-a1ee-41fc08045041.jpg">]]></description>
+            <link>https://thegrid.ai/miele-sleeps/668fed69-2f68-40b7-b4de-6901aaeda354/index.html</link>
+            <guid isPermaLink="false">668fed69-2f68-40b7-b4de-6901aaeda354</guid>
+            <pubDate>Wed, 02 Mar 2016 20:30:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/381d993b-d5e8-4b89-b106-46e2c798c748.jpg">]]></description>
-            <link>undefinedbcde5846-1ec5-48cf-a4ef-33f9889d3eb3/index.html</link>
+            <link>https://thegrid.ai/miele-sleeps/bcde5846-1ec5-48cf-a4ef-33f9889d3eb3/index.html</link>
             <guid isPermaLink="false">bcde5846-1ec5-48cf-a4ef-33f9889d3eb3</guid>
             <pubDate>Wed, 02 Mar 2016 20:27:51 GMT</pubDate>
         </item>
