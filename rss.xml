@@ -4,8 +4,15 @@
         <description><![CDATA[Miele Sleeps]]></description>
         <link>https://thegrid.ai/miele-sleeps/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Mar 2016 19:05:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2016 03:59:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/miele-sleeps/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b53a2e5d-432e-406f-a112-3b1e51ac9269.png">]]></description>
+            <link>https://thegrid.ai/miele-sleeps/3f61c5da-2bb7-46a6-a22f-5b2fcf391e2d/index.html</link>
+            <guid isPermaLink="false">3f61c5da-2bb7-46a6-a22f-5b2fcf391e2d</guid>
+            <pubDate>Fri, 01 Apr 2016 03:58:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b90b17cd-01f4-4db1-bec2-e34e1d8007a5.png">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/miele-sleeps/dfcd6a48-78ad-4362-ae42-cc1d06d08f44/index.html</link>
             <guid isPermaLink="false">dfcd6a48-78ad-4362-ae42-cc1d06d08f44</guid>
             <pubDate>Fri, 04 Mar 2016 06:11:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f3c1e12bb8b531bf3ff25c9ee9fe20476c9c8cb8.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/miele-sleeps/d3526802-e8b4-4e70-96a6-4e37059d089c/index.html</link>
-            <guid isPermaLink="false">d3526802-e8b4-4e70-96a6-4e37059d089c</guid>
-            <pubDate>Fri, 04 Mar 2016 13:46:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
