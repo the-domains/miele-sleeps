@@ -4,7 +4,7 @@
         <description><![CDATA[Miele Sleeps]]></description>
         <link>https://thegrid.ai/miele-sleeps/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Jul 2016 04:23:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2016 04:24:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/miele-sleeps/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/43ab278f-6670-41f2-812b-354741b5dd6e.jpg</link>
             <guid isPermaLink="false">131e1ae7-357a-412a-9bfc-bdf7aab9430e</guid>
             <pubDate>Sat, 02 Jul 2016 04:23:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/781c8269-1f71-4386-9944-7c7c953df76b.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/781c8269-1f71-4386-9944-7c7c953df76b.jpg</link>
+            <guid isPermaLink="false">92b0fe0e-b792-4d2d-8690-2c8648130f89</guid>
+            <pubDate>Sat, 02 Jul 2016 04:23:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/miele-sleeps/69d0c286-f2dc-4c77-8876-0ef02194f15b/index.html</link>
             <guid isPermaLink="false">69d0c286-f2dc-4c77-8876-0ef02194f15b</guid>
             <pubDate>Fri, 04 Mar 2016 15:13:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a26204b3-e646-4b22-9071-f590330ff6e3.jpg">]]></description>
-            <link>https://thegrid.ai/miele-sleeps/f62f3ab5-1931-4db8-9925-3e59a816eb06/index.html</link>
-            <guid isPermaLink="false">f62f3ab5-1931-4db8-9925-3e59a816eb06</guid>
-            <pubDate>Fri, 04 Mar 2016 15:10:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
